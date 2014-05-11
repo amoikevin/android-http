@@ -20,6 +20,9 @@ apply from: '../config/android-library.gradle'
 apply from: '../config/maven_push.gradle'
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:+'
+    compile 'com.loopj.android:android-async-http:1.4.4'
+    compile 'com.squareup.okhttp:okhttp:1.5.4'
+    compile 'com.koushikdutta.async:androidasync:1.2.4'
+    compile 'com.github.kevinsawicki:http-request:5.6'
 }
 
