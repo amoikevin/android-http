@@ -1,7 +1,7 @@
-#android-database
+#android-http
 
 ##Introduction
-android lib - database   
+android lib - http   
 http library include android-async-http, okhttp etc.
 
 ##System requirements
